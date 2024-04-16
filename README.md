@@ -1,4 +1,4 @@
-## Bem-vindo! Eu sou o Joâo Tavares
+## Bem-vindo! Eu sou o João Tavares
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnw07&theme=algolia&show_icons=true"> 
